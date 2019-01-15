@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component UberInfo snapshot renders correctly 1`] = `
+<div
+  className="uberInfo"
+>
+  <div
+    className="leftSide"
+  >
+    <div
+      className="title"
+    >
+      UBER
+    </div>
+    <div>
+      Address: 
+      Address 1 Barcelona
+    </div>
+    <div>
+      Position:
+    </div>
+    <div
+      className="coordinates"
+    >
+      <div>
+        Latitude: 
+        2.0088
+      </div>
+      <div>
+         Longitude: 
+        41.5532
+      </div>
+    </div>
+  </div>
+  <div
+    className="rightSide"
+  >
+    <div>
+      Engine: 
+      CE
+    </div>
+    <div>
+      Fuel : 
+      34
+    </div>
+    <div>
+      Exterior: UNACCEPTABLE | Interior:GOOD
+    </div>
+    <div>
+      Name: 
+      1234-ABC
+    </div>
+  </div>
+</div>
+`;

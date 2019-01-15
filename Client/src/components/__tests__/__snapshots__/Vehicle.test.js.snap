@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Vehicle snapshot renders correctly 1`] = `
+<div
+  className="vehicle"
+>
+  <div
+    className="thumb"
+  >
+    <img
+      alt="vehicle"
+      className="image"
+      src="taxi.svg"
+    />
+  </div>
+  <div
+    className="info"
+  >
+    <div
+      className="taxiInfo"
+    >
+      <div
+        className="title"
+      >
+        TAXI
+      </div>
+      <div>
+        Position:
+      </div>
+      <div
+        className="coordinates"
+      >
+        <div>
+          Latitude: 
+          41.5574
+        </div>
+        <div>
+          Longitude: 
+          2.0028
+        </div>
+      </div>
+      <span
+        className="inactiveState"
+      >
+        Exterior: GOOD | Interior:GOOD
+      </span>
+    </div>
+  </div>
+</div>
+`;

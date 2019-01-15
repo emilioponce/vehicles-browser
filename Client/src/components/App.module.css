@@ -1,0 +1,39 @@
+#page {
+  display: grid;
+
+  height: 100vh;
+
+  grid-template-areas:
+    'head head head head'
+    'list list map map'
+    'list list map map'
+    'list list map map';
+
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 5fr 5fr 1fr;
+}
+
+.header {
+  grid-area: head;
+}
+
+.list {
+  grid-area: list;
+}
+
+.map {
+  grid-area: map;
+  background-color: #aad3df;
+}
+
+@media only screen and (max-width: 800px) {
+  #page {
+    grid-template-areas:
+      'head head head head'
+      'map map map map'
+      'list list list list'
+      'list list list list';
+
+    grid-template-rows: 1fr 6fr 10fr;
+  }
+}

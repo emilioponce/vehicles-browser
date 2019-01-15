@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component App snapshot renders correctly 1`] = `
+<div
+  id="page"
+>
+  <div
+    className="header"
+  >
+    <div
+      className="wrapper"
+    >
+      <div
+        className="header"
+      >
+        <img
+          alt="Vehicles Browser"
+          className="logo"
+          src="logo.svg"
+        />
+        <div
+          className="title"
+        >
+          Vehicles Browser
+        </div>
+        <div
+          className="subtitle"
+        >
+          A tool for visualizing different types of vehicles
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="list"
+  >
+    <div
+      className="vehicleList"
+    >
+      Loading...
+    </div>
+  </div>
+  <div
+    className="map"
+  />
+</div>
+`;

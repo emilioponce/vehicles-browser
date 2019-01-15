@@ -1,0 +1,32 @@
+.taxiInfo {
+  font-size: 80%;
+  color: rgb(73, 73, 73);
+}
+
+.title {
+  font-weight: bold;
+  color: black;
+}
+
+.coordinates {
+  margin-left: 10px;
+}
+
+.frame {
+  padding: 4px;
+  margin: 2px;
+  border-radius: 4px;
+  font-size: 80%;
+  display: inline-block;
+  color: black;
+}
+
+.activeState {
+  composes: frame;
+  background-color: #00bfaa;
+}
+
+.inactiveState {
+  composes: frame;
+  background-color: #bcbcc5;
+}

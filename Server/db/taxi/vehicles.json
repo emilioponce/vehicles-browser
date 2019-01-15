@@ -1,0 +1,49 @@
+{
+  "poiList": [
+    {
+      "id": 1,
+      "coordinate": {
+        "latitude": 41.408714,
+        "longitude": 2.134939
+      },
+      "state": "ACTIVE",
+      "type": "TAXI"
+    },
+    {
+      "id": 2,
+      "coordinate": {
+        "latitude": 41.4514746,
+        "longitude": 2.2031117
+      },
+      "state": "INACTIVE",
+      "type": "TAXI"
+    },
+    {
+      "id": 3,
+      "coordinate": {
+        "latitude": 41.423347,
+        "longitude": 2.210279
+      },
+      "state": "ACTIVE",
+      "type": "TAXI"
+    },
+    {
+      "id": 4,
+      "coordinate": {
+        "latitude": 41.5526994,
+        "longitude": 2.2976604
+      },
+      "state": "INACTIVE",
+      "type": "TAXI"
+    },
+    {
+      "id": 5,
+      "coordinate": {
+        "latitude": 41.5563816,
+        "longitude": 2.0056066
+      },
+      "state": "ACTIVE",
+      "type": "TAXI"
+    }
+  ]
+}

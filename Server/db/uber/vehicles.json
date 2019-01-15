@@ -1,0 +1,54 @@
+{
+  "placemarks": [
+    {
+      "address": "Address 1 Barcelona",
+      "coordinates": [2.07526, 41.39301, 0],
+      "engineType": "CE",
+      "exterior": "UNACCEPTABLE",
+      "fuel": 42,
+      "interior": "UNACCEPTABLE",
+      "name": "9898-PON",
+      "id": 1
+    },
+    {
+      "address": "Address 2 Barcelona",
+      "coordinates": [2.29622, 41.52847, 0],
+      "engineType": "CE",
+      "exterior": "UNACCEPTABLE",
+      "fuel": 45,
+      "interior": "GOOD",
+      "name": "55555-ERT",
+      "id": 2
+    },
+    {
+      "address": "Address 3 Barcelona",
+      "coordinates": [2.27417, 41.51274, 0],
+      "engineType": "CE",
+      "exterior": "UNACCEPTABLE",
+      "fuel": 57,
+      "interior": "UNACCEPTABLE",
+      "name": "8884-ABC",
+      "id": 3
+    },
+    {
+      "address": "Address 4 Barcelona",
+      "coordinates": [2.07838, 41.46388, 0],
+      "engineType": "CE",
+      "exterior": "GOOD",
+      "fuel": 84,
+      "interior": "GOOD",
+      "name": "1234-AAA",
+      "id": 4
+    },
+    {
+      "address": "Address 5 Barcelona",
+      "coordinates": [2.19416, 41.45258, 0],
+      "engineType": "CE",
+      "exterior": "GOOD",
+      "fuel": 54,
+      "interior": "GOOD",
+      "name": "1234-CRR",
+      "id": 5
+    }
+  ]
+}

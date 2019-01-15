@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component TaxiInfo snapshot renders correctly 1`] = `
+<div
+  className="taxiInfo"
+>
+  <div
+    className="title"
+  >
+    TAXI
+  </div>
+  <div>
+    Position:
+  </div>
+  <div
+    className="coordinates"
+  >
+    <div>
+      Latitude: 
+      41.5532
+    </div>
+    <div>
+      Longitude: 
+      2.1009
+    </div>
+  </div>
+  <span
+    className="activeState"
+  >
+    ACTIVE
+  </span>
+</div>
+`;

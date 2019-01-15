@@ -1,0 +1,24 @@
+.uberInfo {
+  font-size: 80%;
+  color: rgb(73, 73, 73);
+  display: flex;
+}
+
+.leftSide {
+  flex: 1;
+  padding: 10px;
+}
+
+.rightSide {
+  flex: 1;
+  padding: 10px;
+}
+
+.title {
+  font-weight: bold;
+  color: black;
+}
+
+.coordinates {
+  margin-left: 10px;
+}

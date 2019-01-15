@@ -1,0 +1,31 @@
+.wrapper {
+  background-color: #eef0f2;
+  color: #20252c;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  padding: 12px;
+}
+
+.logo {
+  width: 35px;
+}
+
+.title {
+  font-size: 150%;
+  text-transform: uppercase;
+  font-family: OpenSans, sans-serif;
+  color: #00bfaa;
+  letter-spacing: 0.02em;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.subtitle {
+  font-size: 100%;
+  margin-left: 10px;
+}
